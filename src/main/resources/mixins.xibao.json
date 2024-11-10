@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "cn.ksmcbrigade.xibao.mixins",
+  "refmap": "mixins.xibao.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinConnectScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

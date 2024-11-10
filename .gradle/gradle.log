@@ -1,0 +1,47 @@
+WARNING: You are using an unsupported version of ForgeGradle.
+Please consider upgrading to ForgeGradle 5 and helping in the efforts to get old versions working on the modern toolchain.
+See https://gist.github.com/TheCurle/fe7ad3ede188cbdd15c235cc75d52d4a for more info on contributing.
+:deobfCompileDummyTask
+:deobfProvidedDummyTask
+:sourceApiJava UP-TO-DATE
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava UP-TO-DATE
+:compileJavaע: SpongePowered MIXIN Annotation Processor Version=0.7.10
+ע: ObfuscationServiceMCP supports type: "searge"
+ע: ObfuscationServiceMCP supports type: "notch"
+ע: Loading searge mappings from E:\.gradle\caches\minecraft\de\oceanlabs\mcp\mcp_stable\22\srgs\mcp-srg.srg
+ע: Loading notch mappings from E:\.gradle\caches\minecraft\de\oceanlabs\mcp\mcp_stable\22\srgs\mcp-notch.srg
+ע: Writing refmap to D:\MinecraftForgeMod\template-forge-mixin-1.8.9\build\tmp\compileJava\compileJava-refmap.json
+ע: Writing refmap to D:\MinecraftForgeMod\template-forge-mixin-1.8.9\build\tmp\compileJava\compileJava-refmap.json
+ע: Writing searge output SRGs to D:\MinecraftForgeMod\template-forge-mixin-1.8.9\build\tmp\compileJava\mcp-srg.srg
+ע: Writing notch output SRGs to D:\MinecraftForgeMod\template-forge-mixin-1.8.9\build\tmp\compileJava\mcp-notch.srg
+ע: Writing refmap to D:\MinecraftForgeMod\template-forge-mixin-1.8.9\build\tmp\compileJava\compileJava-refmap.json
+ע: Writing refmap to D:\MinecraftForgeMod\template-forge-mixin-1.8.9\build\tmp\compileJava\compileJava-refmap.json
+ע: Writing searge output SRGs to D:\MinecraftForgeMod\template-forge-mixin-1.8.9\build\tmp\compileJava\mcp-srg.srg
+ע: Writing notch output SRGs to D:\MinecraftForgeMod\template-forge-mixin-1.8.9\build\tmp\compileJava\mcp-notch.srg
+
+:processResources UP-TO-DATE
+:classes
+:jar
+:sourceTestJava UP-TO-DATE
+:compileTestJava UP-TO-DATE
+:processTestResources UP-TO-DATE
+:testClasses UP-TO-DATE
+:test UP-TO-DATE
+:extractMcpData SKIPPED
+:extractMcpMappings SKIPPED
+:getVersionJson
+:extractUserdev UP-TO-DATE
+:genSrgs SKIPPED
+:reobfJar
+:shadowJar
+:reobfShadowJar
+:assemble
+:check UP-TO-DATE
+:build
+
+BUILD SUCCESSFUL
+
+Total time: 3.909 secs

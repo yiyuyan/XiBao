@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "cn/ksmcbrigade/xibao/mixins/MixinConnectScreen": {
+      "actionPerformed": "Lnet/minecraft/client/gui/GuiDisconnected;func_146284_a(Lnet/minecraft/client/gui/GuiButton;)V",
+      "Lnet/minecraft/client/gui/GuiDisconnected;drawDefaultBackground()V": "Lnet/minecraft/client/gui/GuiDisconnected;func_146276_q_()V",
+      "initGui": "Lnet/minecraft/client/gui/GuiDisconnected;func_73866_w_()V",
+      "drawScreen": "Lnet/minecraft/client/gui/GuiDisconnected;func_73863_a(IIF)V"
+    }
+  },
+  "data": {
+    "notch": {
+      "cn/ksmcbrigade/xibao/mixins/MixinConnectScreen": {
+        "actionPerformed": "Laxh;a(Lavs;)V",
+        "Lnet/minecraft/client/gui/GuiDisconnected;drawDefaultBackground()V": "Laxh;c()V",
+        "initGui": "Laxh;b()V",
+        "drawScreen": "Laxh;a(IIF)V"
+      }
+    },
+    "searge": {
+      "cn/ksmcbrigade/xibao/mixins/MixinConnectScreen": {
+        "actionPerformed": "Lnet/minecraft/client/gui/GuiDisconnected;func_146284_a(Lnet/minecraft/client/gui/GuiButton;)V",
+        "Lnet/minecraft/client/gui/GuiDisconnected;drawDefaultBackground()V": "Lnet/minecraft/client/gui/GuiDisconnected;func_146276_q_()V",
+        "initGui": "Lnet/minecraft/client/gui/GuiDisconnected;func_73866_w_()V",
+        "drawScreen": "Lnet/minecraft/client/gui/GuiDisconnected;func_73863_a(IIF)V"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xibao",
+  "name": "XibaoMod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KSmc_brigade"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
